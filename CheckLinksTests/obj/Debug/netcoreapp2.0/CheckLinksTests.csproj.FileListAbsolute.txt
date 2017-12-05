@@ -1,0 +1,16 @@
+C:\Users\Kevin\Dev\CheckLinksTests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Kevin\Dev\CheckLinksTests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netstandard15.dll
+C:\Users\Kevin\Dev\CheckLinksTests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netstandard15.dll
+C:\Users\Kevin\Dev\CheckLinksTests\bin\Debug\netcoreapp2.0\CheckLinksTests.deps.json
+C:\Users\Kevin\Dev\CheckLinksTests\bin\Debug\netcoreapp2.0\CheckLinksTests.runtimeconfig.json
+C:\Users\Kevin\Dev\CheckLinksTests\bin\Debug\netcoreapp2.0\CheckLinksTests.runtimeconfig.dev.json
+C:\Users\Kevin\Dev\CheckLinksTests\bin\Debug\netcoreapp2.0\CheckLinksTests.dll
+C:\Users\Kevin\Dev\CheckLinksTests\bin\Debug\netcoreapp2.0\CheckLinksTests.pdb
+C:\Users\Kevin\Dev\CheckLinksTests\bin\Debug\netcoreapp2.0\CheckLinksConsole.dll
+C:\Users\Kevin\Dev\CheckLinksTests\bin\Debug\netcoreapp2.0\CheckLinksConsole.pdb
+C:\Users\Kevin\Dev\CheckLinksTests\obj\Debug\netcoreapp2.0\CheckLinksTests.csprojResolveAssemblyReference.cache
+C:\Users\Kevin\Dev\CheckLinksTests\obj\Debug\netcoreapp2.0\CheckLinksTests.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Dev\CheckLinksTests\obj\Debug\netcoreapp2.0\CheckLinksTests.AssemblyInfoInputs.cache
+C:\Users\Kevin\Dev\CheckLinksTests\obj\Debug\netcoreapp2.0\CheckLinksTests.AssemblyInfo.cs
+C:\Users\Kevin\Dev\CheckLinksTests\obj\Debug\netcoreapp2.0\CheckLinksTests.dll
+C:\Users\Kevin\Dev\CheckLinksTests\obj\Debug\netcoreapp2.0\CheckLinksTests.pdb
